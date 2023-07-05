@@ -16,6 +16,8 @@
 
     @yield('_styles')
 
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6641141866403336" crossorigin="anonymous"></script>
+
 </head>
 
 <body class="d-flex flex-column min-vh-100">
