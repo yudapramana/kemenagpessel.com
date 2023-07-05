@@ -68,6 +68,13 @@
     <!-- ======= Main Content ======= -->
     @yield('content')
 
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6641141866403336" crossorigin="anonymous"></script>
+    <!-- Ad Satu -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6641141866403336" data-ad-slot="9954830031" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+
+    </script>
 
     <!-- ======= Footer ======= -->
     @include('layouts.landing.footer')
