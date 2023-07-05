@@ -55,9 +55,11 @@
     @yield('_styles')
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6641141866403336" crossorigin="anonymous"></script>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64a41dc3d2ddeb0019614a76&product=sticky-share-buttons' async='async'></script>
 </head>
 
 <body>
+    <div class="sharethis-sticky-share-buttons"></div>
 
 
     <!-- ======= Header ======= -->
