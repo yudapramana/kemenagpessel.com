@@ -37,7 +37,7 @@
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
             <div class="col-xl-12 col-lg-12">
                 <img src="{{ asset('sailor/img/logokmg.png') }}" width="150" class="img-fluid">
-                <h2 id="styletitle">Kantor Kementerian Agama <br />Kabupaten Pesisir Selatan<span></span></h2>
+                <h2 id="styletitle">Kantor Kementerian Agama <br />Kabupaten Pesisir Selatanaa<span></span></h2>
                 {{-- <h2>~ Ikhlas Beramal ~</h2> --}}
             </div>
         </div>
@@ -142,6 +142,14 @@
             </div>
         </div>
     </section><!-- End About Section -->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6641141866403336" crossorigin="anonymous"></script>
+    <!-- Ad Satu -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6641141866403336" data-ad-slot="9954830031" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+
+    </script>
 
     {{-- <div class="row content">
                 <div class="col-lg-6">
