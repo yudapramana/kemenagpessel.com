@@ -63,7 +63,7 @@ Dapat juga digunakan sebagai Sholat Jumat, Majelis Taklim dan pertemuan Jamaah l
                 'title_id' => 'Kolam Berenang',
                 'title_en' => 'Swimming Pool',
                 'name' => 'Swimming Pool',
-                'description' => 'Dengan View lembah dan pegunungan yang asri, Kolam renang Kementerian Agama Kab. Pesisir Selatan tersedia dalam tiga kedalaman :
+                'description' => 'Dengan View lembah dan pegunungan yang asri, Kolam renang Pandan View Mandeh tersedia dalam tiga kedalaman :
 
 Kedalamam 140 cm untuk dewasa
 
@@ -101,7 +101,7 @@ Dinner      buka dari Jam 18.30 sd 20.30',
                 'title_id' => 'Area Parkir',
                 'title_en' => 'Parking Area',
                 'name' => 'Area Parkir',
-                'description' => 'Kementerian Agama Kab. Pesisir Selatan memiliki dua area parkir berkapasitas sekitar 100 mobil dalam dua lokasi, Halaman Utama dan Area parkir barat',
+                'description' => 'Pandan View Mandeh memiliki dua area parkir berkapasitas sekitar 100 mobil dalam dua lokasi, Halaman Utama dan Area parkir barat',
                 'next_url' => 'parking-area',
                 'slug' => 'parking-area',
             ),
@@ -115,7 +115,7 @@ Dinner      buka dari Jam 18.30 sd 20.30',
                 'title_id' => 'Dermaga',
                 'title_en' => 'Dock Side',
                 'name' => 'Dermaga',
-                'description' => 'Dermaga Kementerian Agama Kab. Pesisir Selatan dibangun dengan konsep Pariwisata. Dermaga ini banyak dikunjungi wisatawan dikarenakan daya tarik dan fasilitas yang tersedia sangat baik.',
+                'description' => 'Dermaga Pandan View dibangun dengan konsep Pariwisata. Dermaga ini banyak dikunjungi wisatawan dikarenakan daya tarik dan fasilitas yang tersedia sangat baik.',
                 'next_url' => 'dock-side',
                 'slug' => 'dock-side',
             ),
