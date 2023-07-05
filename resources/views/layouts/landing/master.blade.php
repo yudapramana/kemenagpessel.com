@@ -87,6 +87,15 @@
     @yield('_scripts')
 
 
+    <script>
+        (function(d) {
+            var s = d.createElement("script");
+            s.setAttribute("data-account", "neIAOM4AP7");
+            s.setAttribute("src", "https://cdn.userway.org/widget.js");
+            (d.body || d.head).appendChild(s);
+        })(document)
+
+    </script><noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>
 
 </body>
 
