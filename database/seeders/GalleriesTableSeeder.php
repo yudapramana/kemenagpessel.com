@@ -107,6 +107,72 @@ class GalleriesTableSeeder extends Seeder
                 'title' => 'Rapat Kerja 2023',
                 'description' => 'Rapat Kerja',
             ),
+            8 => 
+            array (
+                'id_gallery' => 33,
+                'created_at' => '2023-07-06 09:08:46',
+                'updated_at' => '2023-07-06 09:08:46',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609305/PandanViewMandeh/image_750x_644369515a943_qynonv.jpg',
+                'filter_tag' => 'Tahunan',
+                'alt' => 'Idul Adha 2023',
+                'title' => 'Idul Adha 2023',
+                'description' => 'Jadi Khatib Salat Idul Fitri, Abrar Munanda Ajak Kaum Muslimin Menjaga Kebiasaan Istimewa Selama Ramadan',
+            ),
+            9 => 
+            array (
+                'id_gallery' => 34,
+                'created_at' => '2023-07-06 09:11:13',
+                'updated_at' => '2023-07-06 09:11:13',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609451/PandanViewMandeh/image_750x_648480a02f75d_jrfldo.jpg',
+                'filter_tag' => 'Madrasah',
+                'alt' => 'Monev Madrasah 2023',
+                'title' => 'Monev Madrasah 2023',
+                'description' => 'Pantau dan Evaluasi Penggunaan Anggaran RA dan Madrasah, Tim Monev Kemenag Pessel Lakukan Pembinaan',
+            ),
+            10 => 
+            array (
+                'id_gallery' => 35,
+                'created_at' => '2023-07-06 09:12:27',
+                'updated_at' => '2023-07-06 09:12:27',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609528/PandanViewMandeh/image_750x_647fc6c429f4b_dszlgk.jpg',
+                'filter_tag' => 'Madrasah',
+                'alt' => 'KMD',
+                'title' => 'KMD',
+                'description' => 'Home  Berita  Utama Sebanyak 80 Pembina Pramuka Madrasah Ikuti KMD Perdana Sebanyak 80 Pembina Pramuka Madrasah Ikuti KMD Perdana',
+            ),
+            11 => 
+            array (
+                'id_gallery' => 36,
+                'created_at' => '2023-07-06 09:14:03',
+                'updated_at' => '2023-07-06 09:16:08',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609623/PandanViewMandeh/image_750x_6425fa1bba8f2_pyl66f.jpg',
+                'filter_tag' => 'Bimas',
+                'alt' => 'Safari Ramadhan 2023',
+                'title' => 'Safari Ramadhan 2023',
+                'description' => 'Hari Terakhir Safari, Kakan Kemenag Sampaikan 3 Hal Pokok Dalam Memakmurkan Masjid',
+            ),
+            12 => 
+            array (
+                'id_gallery' => 37,
+                'created_at' => '2023-07-06 09:14:49',
+                'updated_at' => '2023-07-06 09:14:49',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609669/PandanViewMandeh/image_750x_641af3c9cf118_jeeadq.jpg',
+                'filter_tag' => 'Tahunan',
+                'alt' => 'Hisab Hilal',
+                'title' => 'Hisab Hilal',
+                'description' => 'Pantau Hilal, Kakan Kemenag Pessel Ajak Masyarakat Jadikan Ramadan Sebagai Momentum untuk Refleksi Jiwa dan Sikap',
+            ),
+            13 => 
+            array (
+                'id_gallery' => 38,
+                'created_at' => '2023-07-06 09:15:31',
+                'updated_at' => '2023-07-06 09:15:31',
+                'image_url' => 'https://res.cloudinary.com/dezj1x6xp/image/upload/v1688609703/PandanViewMandeh/image_750x_6416c0ba7f24c_dvfh5l.jpg',
+                'filter_tag' => 'Tahunan',
+                'alt' => 'Thaharah Masjid 2023',
+                'title' => 'Thaharah Masjid 2023',
+                'description' => 'Thaharah Masjid Sebagai Pembuka 10 Program Syiar Ramadan Kemenag Pessel',
+            ),
         ));
         
         
