@@ -25,6 +25,12 @@
         }
     }
 
+    #hero h1 {
+        margin: 0;
+        font-size: 41px !important;
+        line-height: 1.2 !important;
+    }
+
 </style>
 @endsection
 
@@ -37,7 +43,7 @@
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
             <div class="col-xl-12 col-lg-12">
                 <img src="{{ asset('sailor/img/logokmg.png') }}" width="150" class="img-fluid">
-                <h2 id="styletitle">Kantor Kementerian Agama <br />Kabupaten Pesisir Selatanaa<span></span></h2>
+                <h1 id="styletitle">Kantor Kementerian Agama <br />Kabupaten Pesisir Selatan<span></span></h1>
                 {{-- <h2>~ Ikhlas Beramal ~</h2> --}}
             </div>
         </div>
