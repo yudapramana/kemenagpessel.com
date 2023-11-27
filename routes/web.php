@@ -13,6 +13,14 @@ use Illuminate\Support\Facades\Artisan;
 |
 */
 
+Route::get('/global/xdown/view', function () {
+    
+
+    Artisan::call('down', ['--secret' => 'devmode', '--render' => 'errors.' . $view]);
+
+    return 'Web Down with command view: ' . $view;
+});
+
 Route::get('/migrate-fresh', function () {
     Artisan::call('migrate:fresh', ['--seed' => true]);
 
